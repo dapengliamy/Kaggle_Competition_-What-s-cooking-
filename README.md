@@ -1,5 +1,7 @@
 Kaggle competition "what's cooking"
 
+https://www.kaggle.com/c/whats-cooking
+
 Machine Learning(Neural network multiclassification, hierarchical clustering) and Natural Language Processing (word2vec) are applied.
 
 1 Multiclass classification (scikit-learn) enhanced by word embeddings (word2vec);
