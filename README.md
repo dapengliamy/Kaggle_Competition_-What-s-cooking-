@@ -4,11 +4,11 @@ https://www.kaggle.com/c/whats-cooking
 
 Machine Learning(Neural network multiclassification, hierarchical clustering) and Natural Language Processing (word2vec) are applied.
 
--- Multiclass classification (scikit-learn) enhanced by word embeddings (word2vec);
+- Multiclass classification (scikit-learn) enhanced by word embeddings (word2vec);
 
--- Hierarchical clustering of cuisines with Ward linkage
+- Hierarchical clustering of cuisines with Ward linkage
 
--- Dimensionality reduction using PCA: project all cuisines onto two dimensions
+- Dimensionality reduction using PCA: project all cuisines onto two dimensions
 
 
 Raw Data from kaggle
